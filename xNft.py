@@ -31,7 +31,7 @@ def main():
                 out.write(data)
                 print(f'{B}[+] Getting: https://www.larvalabs.com/cryptopunks/cryptopunk{str(code).zfill(4)}.png{X}')
             except Exception as ex:
-                print('',ex)
+                print(f'{R}[!] Exception: {str(ex)}{X}')
                 print(f'{R}[!] Failed: https://www.larvalabs.com/cryptopunks/cryptopunk{str(code).zfill(4)}.png{X}')
 
 if __name__ == '__main__':
