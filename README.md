@@ -1,23 +1,13 @@
 
 
-<h2><strong>xNft</strong></h2>
+## xNft
 
-- _What is xNft?_
+*Usage:*
 
-`xNft is a Cyberpunk NFT scraper, that will fetch you all 10,000 NFTs.`
+1. Install Libraries: `python3 install -r requirements.txt` 📜
+2. Run xNft: `python3 xNft.py` 🚀
 
+> <img src="img/pic.jpg">
 
-> 1) Install Python 3
-> 2) Install the libraries `python install -r requirements.txt`
-> 3) Run the script: `./xNft.py `
-
-- Images:
-
-<img src="pic.jpg">
-
-<hr>
-
-<img src="pic2.jpg">
-
-- Enjoy ;)
+> <img src="img/pic2.jpg">
 
